@@ -15,7 +15,7 @@ R2	390 +-5%
 R3	12K +-5%
 R4	10K +-5%
 R5	100 +-5%
-VR1	A5K; make sure this is a linear pot
+VR1	12mm 5K switched flat footed potentiometer (Aliexpress - search for rv121sf to get started)
 IC1	386D JRC (I would normally socket this) 
 Q1	KTC3198 (use KSC1815YTA - KTC3198-Y is EOL)
 D1	1N4001
