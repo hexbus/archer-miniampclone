@@ -1,5 +1,5 @@
 C1	101 MLCC/Ceramic such as C410C101J1G5TA
-C2	4.7uf 50V electrolytic or MLCC like 
+C2	4.7uf 50V electrolytic or MLCC like C430C475K3R5TA
 C3	222 MLCC/Ceramic such as C410C222M5R5TA7200
 C4	4.7UF 50V electrolytic or MLCC like C430C475K3R5TA
 C5	22uf 16V Electrolytic or MLCC like 810-FG16X5R1E336MRT6
