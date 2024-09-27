@@ -1,0 +1,27 @@
+C1	101 MLCC/Ceramic such as C410C101J1G5TA
+C2	4.7uf 50V electrolytic or MLCC like 
+C3	222 MLCC/Ceramic such as C410C222M5R5TA7200
+C4	4.7UF 50V electrolytic or MLCC like C430C475K3R5TA
+C5	22uf 16V Electrolytic or MLCC like 810-FG16X5R1E336MRT6
+C6	220uf 10V electrolytic
+C7	1uf 50V electrolytic or MLCC like C410C105K3R5TA
+C8	220uf 10V electrolytic
+C9	100uf 10V electrolytic
+C10	101 MLCC/Ceramic such as C410C101J1G5TA
+(Note, you can sub the 1-22uf electrolytics with MLCCs)
+
+R1	27K +-5%
+R2	390 +-5%
+R3	12K +-5%
+R4	10K +-5%
+R5	100 +-5%
+VR1	A5K; make sure this is a linear pot
+IC1	386D JRC (I would normally socket this) 
+Q1	KTC3198 (use KSC1815YTA - KTC3198-Y is EOL)
+D1	1N4001
+
+JK1	mono switched
+JK2	mono switched
+JK3	5.5mm 2.1mm barrel switched
+SP1	16ohm 0.52w speaker
+9V battery connector
