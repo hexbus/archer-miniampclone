@@ -1,3 +1,5 @@
+Capacitors:
+-----------
 C1	101 MLCC/Ceramic such as C410C101J1G5TA
 C2	4.7uf 50V electrolytic or MLCC like C430C475K3R5TA
 C3	222 MLCC/Ceramic such as C410C222M5R5TA7200
@@ -10,6 +12,8 @@ C9	100uf 10V electrolytic
 C10	101 MLCC/Ceramic such as C410C101J1G5TA
 (Note, you can sub the 1-22uf electrolytics with MLCCs)
 
+Resistors:
+----------
 R1	27K +-5%
 R2	390 +-5%
 R3	12K +-5%
@@ -18,11 +22,15 @@ R5	100 +-5%
 VR1	12mm 5K switched flat footed potentiometer (Aliexpress - search for rv121sf to get started)
 (Note: You want something like Mouser RV121F-10-009J-B10K-00K except 5K and switched)
 
+Silicon
+-------
 IC1	386 amplifier IC - LM386N-1/NOPB (I would normally install an 8 pin DIP socket first) 
 Q1	*KTC3198 
 D1	1N4001
 *(suggest use KTC3198-Y A1G instead, KTC3198 is EOL)
 
+Mechanical
+----------
 JK1	mono switched - MJ-3536N
 JK2	mono switched - MJ-3536N
 JK3	5.5mm 2.1mm barrel switched - Wurth 694106301002
