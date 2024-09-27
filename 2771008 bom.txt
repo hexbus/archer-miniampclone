@@ -16,13 +16,15 @@ R3	12K +-5%
 R4	10K +-5%
 R5	100 +-5%
 VR1	12mm 5K switched flat footed potentiometer (Aliexpress - search for rv121sf to get started)
-       (Note: You want something like Mouser RV121F-10-009J-B10K-00K except 5K and switched)
-IC1	386D JRC (I would normally socket this) 
-Q1	KTC3198 (use KSC1815YTA - KTC3198-Y is EOL)
-D1	1N4001
+(Note: You want something like Mouser RV121F-10-009J-B10K-00K except 5K and switched)
 
-JK1	mono switched
-JK2	mono switched
-JK3	5.5mm 2.1mm barrel switched
-SP1	16ohm 0.52w speaker
+IC1	386 amplifier IC - LM386N-1/NOPB (I would normally install an 8 pin DIP socket first) 
+Q1	*KTC3198 
+D1	1N4001
+*(suggest use KTC3198-Y A1G instead, KTC3198 is EOL)
+
+JK1	mono switched - MJ-3536N
+JK2	mono switched - MJ-3536N
+JK3	5.5mm 2.1mm barrel switched - Wurth 694106301002
+SP1	16ohm 0.5w speaker -  SP570316-1
 9V battery connector
