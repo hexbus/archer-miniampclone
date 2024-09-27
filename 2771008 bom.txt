@@ -16,7 +16,7 @@ R3	12K +-5%
 R4	10K +-5%
 R5	100 +-5%
 VR1	12mm 5K switched flat footed potentiometer (Aliexpress - search for rv121sf to get started)
-     (Note: You want something like Mouser RV121F-10-009J-B10K-00K except 5K and switched)
+       (Note: You want something like Mouser RV121F-10-009J-B10K-00K except 5K and switched)
 IC1	386D JRC (I would normally socket this) 
 Q1	KTC3198 (use KSC1815YTA - KTC3198-Y is EOL)
 D1	1N4001
